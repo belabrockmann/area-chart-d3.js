@@ -16,3 +16,12 @@ body {
 svg {
   fill: url(#gradient);
 }
+#title {
+  fill: black;
+  font-size: 3.8rem;
+}
+.label {
+  text-anchor: middle;
+  font-size: 2rem;
+  fill: black;
+}
