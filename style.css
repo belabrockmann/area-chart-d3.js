@@ -4,3 +4,15 @@ body {
   justify-content: center;
   align-items: center;
 }
+#gradient-start {
+  stop-color: darkblue;
+  stop-opacity: 1;
+}
+
+#gradient-end {
+  stop-color: cyan;
+  stop-opacity: 1;
+}
+svg {
+  fill: url(#gradient);
+}
