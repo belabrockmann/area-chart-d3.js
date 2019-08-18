@@ -1,1 +1,1 @@
-This is an area chart of the [population of the United States of America from 1960 to 2018](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
+This area chart shows the [Contiguous U.S., Precipitation, January-December](https://www.ncdc.noaa.gov/cag/national/time-series/110-pcp-ytd-12-1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
